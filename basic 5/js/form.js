@@ -1,0 +1,1 @@
+document.querySelector("#html h2").innerHTML='Test <strong>Doc</strong>'
